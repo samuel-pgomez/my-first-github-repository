@@ -5,3 +5,5 @@ Just was changed in local repository
 ]This line was added in feature-2 branch
 
 Anotthe modification in the feature-2 branch
+
+Edit in the feature-2 branch
