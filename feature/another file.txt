@@ -1,1 +1,3 @@
 Just another file en feature-1 branch
+
+Just was changed in local repository
